@@ -12,7 +12,7 @@ programa
 			}
 			soma = vet[0] + vet[1] + vet[5]
 			escreva("\nA soma dos vetores na posição 0, 1 e 5 é de: ",soma)
-			vet[4] = 100
+			vet[4] = 50
 			para(x=0;x<6;x++)
 			{
 				escreva("\nVetor [",x,"] = ",vet[x])
@@ -24,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 87; 
+ * @POSICAO-CURSOR = 275; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {vet, 6, 10, 3}-{x, 6, 35, 1}-{soma, 6, 37, 4};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
